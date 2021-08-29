@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://spareacc.github.io/csb-3lssu/static/css/main.7fddeb8e.chunk.css",
-    "main.js": "https://spareacc.github.io/csb-3lssu/static/js/main.eb78d538.chunk.js",
-    "main.js.map": "https://spareacc.github.io/csb-3lssu/static/js/main.eb78d538.chunk.js.map",
+    "main.css": "https://spareacc.github.io/csb-3lssu/static/css/main.29d683f2.chunk.css",
+    "main.js": "https://spareacc.github.io/csb-3lssu/static/js/main.bf66e71f.chunk.js",
+    "main.js.map": "https://spareacc.github.io/csb-3lssu/static/js/main.bf66e71f.chunk.js.map",
     "runtime-main.js": "https://spareacc.github.io/csb-3lssu/static/js/runtime-main.a5148872.js",
     "runtime-main.js.map": "https://spareacc.github.io/csb-3lssu/static/js/runtime-main.a5148872.js.map",
     "static/css/2.42d63c67.chunk.css": "https://spareacc.github.io/csb-3lssu/static/css/2.42d63c67.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.c396c473.chunk.js.map": "https://spareacc.github.io/csb-3lssu/static/js/2.c396c473.chunk.js.map",
     "index.html": "https://spareacc.github.io/csb-3lssu/index.html",
     "static/css/2.42d63c67.chunk.css.map": "https://spareacc.github.io/csb-3lssu/static/css/2.42d63c67.chunk.css.map",
-    "static/css/main.7fddeb8e.chunk.css.map": "https://spareacc.github.io/csb-3lssu/static/css/main.7fddeb8e.chunk.css.map",
+    "static/css/main.29d683f2.chunk.css.map": "https://spareacc.github.io/csb-3lssu/static/css/main.29d683f2.chunk.css.map",
     "static/js/2.c396c473.chunk.js.LICENSE.txt": "https://spareacc.github.io/csb-3lssu/static/js/2.c396c473.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a5148872.js",
     "static/css/2.42d63c67.chunk.css",
     "static/js/2.c396c473.chunk.js",
-    "static/css/main.7fddeb8e.chunk.css",
-    "static/js/main.eb78d538.chunk.js"
+    "static/css/main.29d683f2.chunk.css",
+    "static/js/main.bf66e71f.chunk.js"
   ]
 }
